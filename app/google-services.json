@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "194410581315",
+    "firebase_url": "https://authenticator-9ddd3.firebaseio.com",
+    "project_id": "authenticator-9ddd3",
+    "storage_bucket": "authenticator-9ddd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194410581315:android:79efaacc1d831a25c173f6",
+        "android_client_info": {
+          "package_name": "com.avram.authenticator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194410581315-p8nnu09v8c2qbbnibkjmie1ebjdpu5qt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.avram.authenticator",
+            "certificate_hash": "b24c2c087e9182ee6464b22327b23c17fecd725f"
+          }
+        },
+        {
+          "client_id": "194410581315-j6qqj6ul8ptckgqdg5841ks92l9rn3kc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.avram.authenticator",
+            "certificate_hash": "6bd8721f0b4ee21f98a415ee7bb55ad29db61c2c"
+          }
+        },
+        {
+          "client_id": "194410581315-3f47kmk1m47t049cetkodsebh5l44mn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYxB86HTpFAY5HhIfnOLxTSI1Ah1FiFEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194410581315-3f47kmk1m47t049cetkodsebh5l44mn3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
