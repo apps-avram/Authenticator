@@ -48,6 +48,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun signOut() {
         mGoogleSignInClient.signOut()
+        mAuth.signOut()
         Toast.makeText(this, "Signed Out", Toast.LENGTH_LONG).show()
     }
 
